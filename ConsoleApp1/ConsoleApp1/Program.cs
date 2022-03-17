@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("I Just Edited My Code And I Need To Update My Repository!");
         }
     }
 }
